@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Satya
 
 # 💫 About Me:
 📊 Aspiring Data Scientist.<br>📈 Passionate about Data Analytics & Machine Learning.<br>🎓 Currently a student, enhancing my knowledge in Data Science.<br>🚀 Open to opportunities in Data Science, Machine Learning, and AI.<br>🔍 Exploring Soft Computing & AI-driven solutions.<br>💡 Always learning & building data-driven projects.
